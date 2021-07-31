@@ -24,7 +24,7 @@ disable time sync for virtualbox virtual machines :::: Disable Time Sync for Vir
 how to install mariadb on ubuntu 20.04 :::: How To Install MariaDB on Ubuntu 20.04
 how to ssh into ubuntu vm virtualbox from host machine :::: How To Ssh Into Ubuntu VM Virtualbox From Host Machine
 setup dhcp server in ubuntu server 20.04 :::: Setup DHCP Server in Ubuntu Server 20.04
-how to install and setup thunderbird mail in windows 10 :::: How to Install and Setup Thunderbird Mail in Windows 10
+how to install and setup thunderbird mail in windows 10 :::: How to Install and Setup Thunderbird Mail in Windows 10 64bit
 virtualbox 6.1 network settings :::: VirtualBox 6.1 Network Settings
 how to clone virtual machine in virtualbox 6.1 :::: How To Clone Virtual Machine in VirtualBox 6.1
 how to create snapshot in virtualbox 6.1 :::: How to create Snapshot in VirtualBox 6.1
