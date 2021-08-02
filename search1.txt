@@ -133,3 +133,5 @@ edgerouter port forwarding :::: EdgeRouter Port Forwarding
 export vm to ova or ovf using ovf tool :::: Export VM to OVA or OVF using OVF Tool
 ngắm hoa dã quỳ ven đường đi tà nùng - đà lạt :::: Ngắm hoa dã quỳ ven đường đi Tà Nùng - Đà Lạt
 đổ đèo prenn - đà lạt  22-11-2020 đẹp và nguy hiểm :::: Đổ đèo Prenn - Đà Lạt  22-11-2020 đẹp và nguy hiểm
+bóng đèn 12v năng lượng mặt trời 30w :::: Bóng đèn 12v năng lượng mặt trời 30w
+kích điện 12 v sin chuẩn lên 220v 1600w giá rẻ - inventer 1600w :::: Kích điện 12 v sin chuẩn lên 220v 1600W giá rẻ - inventer 1600W
