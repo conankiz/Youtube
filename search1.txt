@@ -127,7 +127,7 @@ manage samba4 ad domain controller dns and group policy from windows :::: Manage
 manage samba4 active directory infrastructure from windows10 via rsat :::: Manage Samba4 Active Directory Infrastructure from Windows10 via RSAT
 manage samba 4 active directory from command line on ubuntu 20.04 lts :::: Manage Samba 4 Active Directory from Command Line on Ubuntu 20.04 LTS
 how to joining ubuntu to an active directory domain controller :::: How to Joining Ubuntu to an Active Directory Domain Controller
-how to enable ssh on ubuntu 20.04 :::: How to Enable SSH on Ubuntu 20.04
+how to enable ssh on ubuntu 20.04 :::: How to install Ubuntu 20.04 lts step by step
 how to install ubuntu 20.04 desktop :::: How to install Ubuntu 20.04 Desktop
 edgerouter port forwarding :::: EdgeRouter Port Forwarding
 export vm to ova or ovf using ovf tool :::: Export VM to OVA or OVF using OVF Tool
