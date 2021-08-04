@@ -114,7 +114,6 @@ how to install google translate on macos :::: How to install google translate on
 export an import vm on xen orchestra :::: Export an Import VM on Xen Orchestra
 fix error when migrating centos 7 from vmware to xen :::: Fix Error when migrating CentOS 7 from vmware to Xen
 shutting down a windows workstation remotely from linux :::: shutting down a windows workstation remotely from linux
-shutting down a windows workstation remotely from linux :::: shutting down a windows workstation remotely from linux
 how to encrypt your windows system drive with veracrypt :::: How to Encrypt Your Windows System Drive With VeraCrypt
 how to install sticky notes in ubuntu 20.04 :::: How To Install Sticky Notes In Ubuntu 20.04
 ibus bamboo   bộ gõ tiếng việt cho linux :::: IBus Bamboo   Bộ gõ tiếng Việt cho Linux
@@ -127,11 +126,13 @@ manage samba4 ad domain controller dns and group policy from windows :::: Manage
 manage samba4 active directory infrastructure from windows10 via rsat :::: Manage Samba4 Active Directory Infrastructure from Windows10 via RSAT
 manage samba 4 active directory from command line on ubuntu 20.04 lts :::: Manage Samba 4 Active Directory from Command Line on Ubuntu 20.04 LTS
 how to joining ubuntu to an active directory domain controller :::: How to Joining Ubuntu to an Active Directory Domain Controller
-how to enable ssh on ubuntu 20.04 :::: How to install Ubuntu 20.04 lts step by step
-how to install ubuntu 20.04 desktop :::: How to install Ubuntu 20.04 Desktop
+how to enable ssh on ubuntu 20.04 :::: How to Enable SSH on Ubuntu 20.04 lts
+how to install ubuntu 20.04 desktop :::: How to install Ubuntu 20.04 lts step by step
 edgerouter port forwarding :::: EdgeRouter Port Forwarding
 export vm to ova or ovf using ovf tool :::: Export VM to OVA or OVF using OVF Tool
 ngắm hoa dã quỳ ven đường đi tà nùng - đà lạt :::: Ngắm hoa dã quỳ ven đường đi Tà Nùng - Đà Lạt
 đổ đèo prenn - đà lạt  22-11-2020 đẹp và nguy hiểm :::: Đổ đèo Prenn - Đà Lạt  22-11-2020 đẹp và nguy hiểm
 bóng đèn 12v năng lượng mặt trời 30w :::: Bóng đèn 12v năng lượng mặt trời 30w
 kích điện 12 v sin chuẩn lên 220v 1600w giá rẻ - inventer 1600w :::: Kích điện 12 v sin chuẩn lên 220v 1600W giá rẻ - inventer 1600W
+fix error when migrating centos 7 from vmware to xen :::: Fix Error when migrating CentOS 7 from vmware to Xen
+how to install driver hp laserjet p1102 on windows 10 :::: How to Install Driver HP LaserJet P1102 on Windows 10
