@@ -136,3 +136,5 @@ bóng đèn 12v năng lượng mặt trời 30w :::: Bóng đèn 12v năng lư�
 kích điện 12 v sin chuẩn lên 220v 1600w giá rẻ - inventer 1600w :::: Kích điện 12 v sin chuẩn lên 220v 1600W giá rẻ - inventer 1600W
 fix error when migrating centos 7 from vmware to xen :::: Fix Error when migrating CentOS 7 from vmware to Xen
 how to install driver hp laserjet p1102 on windows 10 :::: How to Install Driver HP LaserJet P1102 on Windows 10
+edgerouter port forwarding :::: EdgeRouter Port Forwarding
+how to remote access windows 10 from ubuntu 20.04 ::: How to Remote Access Windows 10 from Ubuntu 20.04
