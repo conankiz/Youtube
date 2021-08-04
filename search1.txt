@@ -138,3 +138,8 @@ fix error when migrating centos 7 from vmware to xen :::: Fix Error when migrati
 how to install driver hp laserjet p1102 on windows 10 :::: How to Install Driver HP LaserJet P1102 on Windows 10
 edgerouter port forwarding :::: EdgeRouter Port Forwarding
 how to remote access windows 10 from ubuntu 20.04 ::: How to Remote Access Windows 10 from Ubuntu 20.04
+fix error when migrating centos 7 from vmware to xen ::: Fix Error when migrating CentOS 7 from vmware to Xen
+export an import vm on xen orchestra ::: Export an Import VM on Xen Orchestra
+add ad domain user to sudoers on ubuntu 20 04 ::: Add AD Domain user to sudoers on Ubuntu 20 04
+how to create usb bootable ubuntu 20.04 with balenaetcher ::: How to create Usb bootable Ubuntu 20 04 with balenaEtcher
+HƯỚNG DẪN TỰ ADOPT THIẾT BỊ VÀO SITE TRÊN CLOUD FPT ::: Huong dan adopt thiet bi vao site tren cloud fpt
