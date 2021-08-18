@@ -145,3 +145,4 @@ how to create usb bootable ubuntu 20.04 with balenaetcher :::: How to create Usb
 HƯỚNG DẪN TỰ ADOPT THIẾT BỊ VÀO SITE TRÊN CLOUD FPT :::: Huong dan adopt thiet bi vao site tren cloud fpt
 How to install hp laserjet p2035n network printer :::: How to install hp laserjet p2035n network printer
 Remote desktop multi session on Windows 10 21H1 :::: Remote desktop multi session on Windows 10 21H1 - Hướng dẫn cho phép Multi Remote Session Windows 10
+how to fix frozen taskbar on windows 10 :::: How to fix frozen taskbar on windows 10 - Cách sửa lỗi thanh taskbar bị đơ trong Windows 10
