@@ -149,3 +149,4 @@ how to fix frozen taskbar on windows 10 :::: How to fix frozen taskbar on window
 how to use microsoft remote desktop on mac os :::: How to Use Microsoft Remote Desktop On Mac OS - Phần mềm Microsoft Remote Desktop cho Mac OS
 how to remove temporary files on Windows 10 :::: How to remove temporary files on Windows 10 - Cách dọn rác máy tính
 How to make remote desktop faster windows 10 :::: How to make remote desktop faster windows 10 - Tăng tốc kết nối remote desktop trên windows 10
+Cách sử dụng snipping tool :::: Snipping Tool Windows 10 - Cách sử dụng snipping tool
