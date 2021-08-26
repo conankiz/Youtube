@@ -5,7 +5,7 @@
         "port": 5000
     },
     "database": false,
-    "views": 151,
+    "views": 152,
     "minimum": 85.0,
     "maximum": 95.0,
     "proxy": {
