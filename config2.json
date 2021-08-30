@@ -8,7 +8,7 @@
     "views": 250,
     "minimum": 85.0,
     "maximum": 95.0,
-    "useproxy": false,
+    "useproxy": true,
     "proxy": {
         "category": "p",
         "proxy_type": "http",
