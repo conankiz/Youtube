@@ -6,7 +6,7 @@
     },
     "database": false,
     "views": 250,
-    "minimum": 85.0,
+    "minimum": 75.0,
     "maximum": 95.0,
     "useproxy": false,
     "proxy": {
@@ -17,5 +17,5 @@
     },
     "background": false,
     "bandwidth": true,
-    "threads": 5
+    "threads": 7
 }
