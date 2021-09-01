@@ -6,3 +6,21 @@ mos word 2016 exam skill review :::: MOS Word 2016 Exam Skill Review 2
 mos outlook associate 365 400 practice exam 1 training :::: MOS Outlook Associate 365/2019 (MO-400) Practice Exam 1 Training - Gmetrix - 1000point (Part 2)
 mos excel 2016 expert practice exam 3 training :::: MOS Excel 2016 Expert Practice Exam 3 Training
 mos word 2016 exam 1 :::: MOS Word 2016 Exam 1
+nnlt python cơ bản  cài đặt trình biên tập :::: NNLT Python Cơ bản | CÀI ĐẶT TRÌNH BIÊN TẬP | Sublime Text | Visual Studio Code
+nnlt python cơ bản cài đặt và cấu hình python :::: NNLT Python Cơ bản | Cài đặt và cấu hình Python cho Visual Studio Code trên hệ điều hành Windows
+nnlt python cơ bản cài đặt và cấu hình python :::: NNLT Python Cơ bản | Cài đặt và cấu hình Python cho Sublime Text trên hệ điều hành Windows
+nnlt python cơ bản hướng dẫn cài đặt python :::: NNLT Python Cơ bản | Hướng dẫn Cài đặt Python | How to Install Python
+nnlt python cơ bản giới thiệu về python :::: NNLT Python Cơ bản | Giới thiệu về Python | Introduction to Python
+mos outlook associate part 2 :::: MOS Outlook Associate 365/2019 (MO-400) Practice Exam 1 Training - Gmetrix - 1000point (Part 2)
+mos outlook associate :::: MOS Outlook Associate 365/2019 (MO-400) Practice Exam 1 Training - Gmetrix - 1000point (Part 1)
+mos powerpoint 365 :::: MOS PowerPoint 365/2019 (MO-300) Practice Exam 2 Training - Gmetrix - 1000point
+mos access expert 365 :::: MOS Access Expert 365/2019 (MO-500) Practice Exam 1 Training - Gmetrix - 1000point
+mos outlook 2016 exam 1 :::: MOS Word 2016 Exam 1
+mos outlook 2016 exam :::: MOS Outlook 2016 Exam 2
+mos outlook 2016 exam :::: MOS Outlook 2016 Exam 3
+mos excel 2016 expert practice :::: MOS Excel 2016 Expert Practice Exam 3 Training
+mos excel 2016 expert practice :::: MOS Excel 2016 Expert Practice Exam 2 Training
+mos excel 2016 expert practice :::: MOS Word 2016 Expert Practice Exam 1 Training
+mos access 2016 exam :::: MOS Access 2016 Exam 2
+mos access 2016 exam :::: MOS Access 2016 Exam 1
+mos excel 2016 exam project :::: MOS Excel 2016 Exam Project Review 1
