@@ -24,8 +24,14 @@ mos excel 2016 expert practice :::: MOS Word 2016 Expert Practice Exam 1 Trainin
 mos access 2016 exam :::: MOS Access 2016 Exam 2
 mos access 2016 exam :::: MOS Access 2016 Exam 1
 mos excel 2016 exam project :::: MOS Excel 2016 Exam Project Review 1
-mos excel 365 mo-200 practice exam :::: MOS Excel 365/2019 (MO-200) Practice Exam 2 Training - Gmetrix - 1000point
-mos excel 365 mo-200 practice exam :::: MOS Excel 365/2019 (MO-200) Practice Exam 2 Training - Gmetrix - 1000point
+mos excel 365 mo-200 practice exam :::: MOS Excel 365-2019 MO-200 - Practice Exam 2 Training - Gmetrix - 1000point
+mos excel 365 mo-200 practice exam :::: MOS Excel 365-2019 MO-200 - Practice Exam 1 Training - Gmetrix - 1000point
 mos wood 365 mo-200 practice exam :::: MOS Word 365/2019 (MO-100) Practice Exam 1 Training - Gmetrix - 1000point
 mos wood 365 mo-200 practice exam :::: MOS Access Expert 365/2019 (MO-500) Practice Exam 1 Training - Gmetrix - 1000point
-mos wood 365 mo-200 practice exam :::: MOS Excel Expert 365/2019 (MO-201) Practice Exam 2 Training - Gmetrix - 1000point
+mos excel 365 mo-201 practice exam :::: MOS Excel Expert 365-2019 MO-201 - Practice Exam 2 Training - Gmetrix - 1000point
+mos excel 365 mo-201 practice exam :::: MOS Excel Expert 365-2019 MO-201 Practice Exam 1 Training - Gmetrix - 1000point
+mos excel expert 365-2019 :::: MOS Excel Expert 365-2019 MO-201 Skill Review 1 Training - Gmetrix - 1000point
+mos excel expert 365-2019 mo-201 :::: MOS Excel Expert 365-2019 MO-201 Skill Review 2 Training - Gmetrix - 1000point
+mos excel 365-2019 mo-200 :::: MOS Excel 365-2019 MO-200 - Skill Review 1 Training
+mos excel 365-2019 mo-200 :::: MOS Excel 365-2019 MO-200 - Skill Review 2 Training
+mos excel 365-2019 mo-200 :::: MOS Excel 365-2019 MO-200 Skill Review 3 Training
