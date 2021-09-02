@@ -147,7 +147,7 @@ How to install hp laserjet p2035n network printer :::: How to install hp laserje
 Remote desktop multi session on Windows 10 21H1 :::: Remote desktop multi session on Windows 10 21H1 - Hướng dẫn cho phép Multi Remote Session Windows 10
 how to fix frozen taskbar on windows 10 :::: How to fix frozen taskbar on windows 10 - Cách sửa lỗi thanh taskbar bị đơ trong Windows 10
 how to use microsoft remote desktop on mac os :::: How to Use Microsoft Remote Desktop On Mac OS - Phần mềm Microsoft Remote Desktop cho Mac OS
-how to remove temporary files on Windows 10 :::: How to remove temporary files on Windows 10 - Cách dọn rác máy tính
+hướng dẫn dọn rác máy tính giúp máy chạy mượt :::: How to delete temporary files in windows 10 - Hướng dẫn dọn rác máy tính giúp máy chạy MƯỢT
 How to make remote desktop faster windows 10 :::: How to make remote desktop faster windows 10 - Tăng tốc kết nối remote desktop trên windows 10
 Cách sử dụng snipping tool :::: Snipping Tool Windows 10 - Cách sử dụng snipping tool
 hướng dẫn sử dụng vpn IPVANISH :::: Hướng dẫn sử dụng VPN IPVANISH để thay đổi IP máy tính - Best vpn for pc
