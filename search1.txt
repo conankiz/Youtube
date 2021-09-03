@@ -89,7 +89,7 @@ hp laserjet 1150 driver install :::: Hp laserjet 1150 driver install
 laser printer   refill hp laserjet p2055d  toner cartridges 85a , 08a :::: Laser Printer   Refill HP Laserjet p2055d  Toner Cartridges 85A , 08A
 samsung ml 1640 printer :::: Samsung ml 1640 printer
 ubiquiti edgerouter x setup :::: Ubiquiti edgerouter x setup
-record screen in ubuntu linux with kazam :::: Record Screen in Ubuntu Linux With Kazam
+kazam screen recorder ubuntu :::: Record Screen in Ubuntu Linux With Kazam
 how to check internet speed via terminal on unifi cloudkey :::: How to check internet speed via Terminal on Unifi CloudKey
 how to install wireshark on windows 10 and macos :::: How To install Wireshark on Windows 10 and macOS
 how to delete revit temp file  on windows 10 :::: How To Delete Revit temp file  on windows 10
