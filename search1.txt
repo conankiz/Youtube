@@ -106,7 +106,7 @@ how to install openstack  on centos7   part 1 :::: How to Install Openstack  on 
 how to configure network in openstack queens part 2 :::: How to Configure Network in OpenStack Queens Part 2
 openstack queens compute configuration in centos 7 part 3 :::: Openstack Queens Compute Configuration in CentOS 7 Part 3
 how to install xenserver tools in your vm linux and windows :::: How To Install XenServer tools in your VM linux and Windows
-how to install xrdp server remote desktop on ubuntu 20.04 :::: How to Install Xrdp Server Remote Desktop on Ubuntu 20.04
+Ubuntu remote desktop server :::: How to Install Xrdp Server Remote Desktop on Ubuntu 20.04
 install and configure samba on ubuntu 20.04 part 1  - public folder :::: Install and configure Samba on Ubuntu 20.04 Part 1  - Public folder
 how to setup edgerouter 1 wan 2 lan basic :::: How to setup EdgeRouter 1 Wan 2 Lan Basic
 how to add additional hard disk in  on xcp-ng - xenserver :::: how to add additional hard disk in  on XCP-NG - XenServer
