@@ -1,17 +1,17 @@
 Disable Time Sync for VirtualBox :::: Disable Time Sync for VirtualBox Virtual Machines
 how to reset id teamviewer on windows :::: How to reset ID Teamviewer on windows
-how to joining ubuntu to an active directory domain controller :::: How to Joining Ubuntu to an Active Directory Domain Controller
-how to install freerdp on ubuntu 20.04 :::: How to install freerdp on ubuntu 20.04
-how to delete revit temp file  on windows 10 :::: How To Delete Revit temp file  on windows 10
-how to install driver hp laserjet p1102 on windows 10 :::: How to Install Driver HP LaserJet P1102 on Windows 10
+how to joining ubuntu to active directory :::: How to Joining Ubuntu to an Active Directory Domain Controller
+install freerdp on ubuntu 20 :::: How to install freerdp on ubuntu 20.04
+delete revit temp file :::: How To Delete Revit temp file  on windows 10
+install driver hp laserjet p1102 :::: How to Install Driver HP LaserJet P1102 on Windows 10
 how to setup kali in the browser novnc :::: How To Setup Kali In The Browser noVNC
-install and configure dhcp server on windows server 2019 :::: Install and Configure DHCP Server on Windows Server 2019
+install and configure dhcp server 2019 :::: Install and Configure DHCP Server on Windows Server 2019
 l2tp over ipsec from smart vpn to vigor router on windows 10 :::: L2TP over IPsec from Smart VPN to Vigor Router on windows 10
-how to configure ntp server in windows server 2019 :::: How To Configure NTP Server in Windows Server 2019
-how to configure virtual directory on windows iis server 2019 :::: How To Configure Virtual Directory on Windows IIS Server 2019
+windows server 2019 ntp :::: How To Configure NTP Server in Windows Server 2019
+virtual directory services 2019 :::: How To Configure Virtual Directory on Windows IIS Server 2019
 virtual desktop optimization tool for windows 10 :::: Virtual Desktop Optimization Tool for windows 10
-install and configure iis web server on windows server 2019 :::: Install and Configure IIS Web Server on Windows Server 2019
-how to install active directory domain services in windows server 2019 :::: How to Install Active Directory Domain Services in Windows Server 2019
+install iis on windows server 2019 :::: Install and Configure IIS Web Server on Windows Server 2019
+install active directory windows server 2019 :::: How to Install Active Directory Domain Services in Windows Server 2019
 how to install windows server 2019 step by step :::: How to Install Windows Server 2019 Step By Step
 windows 7 vm optimization for virtualbox :::: Windows 7 VM Optimization for Virtualbox
 installing intel i211, i217v, i218v and i219v drivers on windows server 2019 :::: Installing Intel I211, I217V, I218V and I219V drivers on Windows Server 2019
