@@ -32,16 +32,16 @@ virtualbox 6.1 -  creating a new virtual machine vm :::: VirtualBox 6.1 -  Creat
 how to create a batch file on windows 10 :::: How to create a batch file on Windows 10
 windows 11 download and install :::: Windows 11 Download and Install
 renew your microsoft 365 subscription with a product key :::: Renew your Microsoft 365 subscription with a product key
-how to edit hosts file in windows 10 :::: How to edit hosts file in Windows 10
-how to map network drive using command prompt on windows 10 :::: How to map network drive using Command Prompt on Windows 10
-how to add, view, delete users in credential manager with command prompt :::: How to add, view, delete users in Credential Manager with Command Prompt
-how to use credential manager on windows 10 :::: How to use Credential Manager on Windows 10
+how to edit hosts file in windows 10 :::: How to edit hosts file in Windows 10 Easily
+map network drive cmd :::: How to map network drive using Command Prompt on Windows 10
+credential manager command line :::: How to add, view, delete users in Credential Manager with Command Prompt
+credential manager windows 10 :::: How to use Credential Manager on Windows 10
 how to install and restore config forticlient vpn on windows 10 :::: How to install and restore config Forticlient VPN on Windows 10
-how to download and install sublime text 3 on windows 10 :::: How to Download and Install Sublime Text 3 on Windows 10
+download sublime text 3 windows 10 :::: How to Download and Install Sublime Text 3 on Windows 10
 how to install python on windows 10 :::: How to install Python on Windows 10
 monitor software installation changes - total unistall professional edition :::: Monitor software installation changes - Total Unistall Professional Edition
-how to install ivms 4200 on macos - hik :::: How To install ivms 4200 on MacOS - HIK
-how to install ivms 4200 on pc windows - hik :::: How to install ivms 4200 on pc Windows - HIK
+install ivms 4200 mac :::: How To install ivms 4200 on MacOS - HIK
+install ivms 4200 windows :::: How to install ivms 4200 on pc Windows - HIK
 how to change folder color in ubuntu 20.04 :::: How to Change Folder Color in Ubuntu 20.04
 how to change extension number on panasonic kx-ns300 :::: how to change extension number on panasonic kx-ns300
 install osmonitor server on lan network :::: Install OSmonitor Server on LAN Network
