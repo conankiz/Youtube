@@ -17,8 +17,8 @@ windows 7 vm optimization for virtualbox :::: Windows 7 VM Optimization for Virt
 installing intel i211, i217v, i218v and i219v drivers on windows server 2019 :::: Installing Intel I211, I217V, I218V and I219V drivers on Windows Server 2019
 install and configure hyper v on windows server 2019 :::: Install and Configure Hyper V on Windows Server 2019
 disable these files might be harmful to your computer on windows :::: Disable These files might be harmful to your computer on Windows
-enable multiple rdp sessions on windows server 2019 :::: Enable multiple RDP sessions on Windows Server 2019
-aeroadmin free remote desktop software :::: AeroAdmin Free Remote Desktop Software
+allow multiple remote desktop connections server 2019 :::: Enable multiple RDP sessions on Windows Server 2019
+aeroadmin remote desktop software :::: AeroAdmin Free Remote Desktop Software
 mremoteng install and basic setup :::: mRemoteNG Install and Basic Setup
 disable time sync for virtualbox virtual machines :::: Disable Time Sync for VirtualBox Virtual Machines
 how to install mariadb on ubuntu 20.04 :::: How To Install MariaDB on Ubuntu 20.04
