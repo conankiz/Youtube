@@ -89,14 +89,14 @@ hp laserjet 1150 driver install :::: Hp laserjet 1150 driver install
 laser printer   refill hp laserjet p2055d  toner cartridges 85a , 08a :::: Laser Printer   Refill HP Laserjet p2055d  Toner Cartridges 85A , 08A
 samsung ml 1640 printer :::: Samsung ml 1640 printer
 ubiquiti edgerouter x setup :::: Ubiquiti edgerouter x setup
-kazam screen recorder ubuntu :::: Record Screen in Ubuntu Linux With Kazam
-how to check internet speed via terminal on unifi cloudkey :::: How to check internet speed via Terminal on Unifi CloudKey
+kazam screen recorder :::: Record Screen in Ubuntu Linux With Kazam
+how to check internet speed via terminal :::: How to check internet speed via Terminal on Unifi CloudKey
 how to install wireshark on windows 10 and macos :::: How To install Wireshark on Windows 10 and macOS
-how to delete revit temp file  on windows 10 :::: How To Delete Revit temp file  on windows 10
-how to check what packages are installed in centos 7 :::: How to check what packages are installed in centos 7
-how to config vlan on vigor 3910 and switch 2540x :::: How To Config VLAN on Vigor 3910 and Switch 2540x
-how to disable and enable windows defender in windows 10 :::: How to disable and enable windows defender in windows 10
-how to install xen orchestra on xcp-ng - xenserver :::: How to install xen orchestra on XCP-NG - Xenserver
+revit temp file location :::: How To Delete Revit temp file  on windows 10
+centos packages :::: How to check what packages are installed in centos 7
+config vlan on vigor 3910 :::: How To Config VLAN on Vigor 3910 and Switch 2540x
+How to turn windows defender off in windows 10 :::: How to turn windows defender off  in windows 10
+xen orchestra community edition :::: How to install xen orchestra on XCP-NG - Xenserver
 windows 10 – onedrive won’t start :::: Windows 10 – OneDrive won’t start
 hướng dẫn đổi số thành chữ trong excel :::: Hướng dẫn đổi số thành chữ trong excel
 how to install xcp-ng - xenserver :::: How To Install XCP-NG - XenServer
