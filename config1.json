@@ -10,7 +10,7 @@
     "maximum": 95.0,
     "proxy": {
         "category": "f",
-        "proxy_type": "socks4",
+        "proxy_type": "socks5",
         "filename": "proxyme.txt",
         "authentication": false
     },
